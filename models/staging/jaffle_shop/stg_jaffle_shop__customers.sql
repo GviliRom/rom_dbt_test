@@ -3,4 +3,4 @@ select
     first_name,
     last_name
 
-from raw.jaffle_shop.customers
+from dg-gcp-cert-435309.jaffle_shop.customers

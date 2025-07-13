@@ -4,4 +4,4 @@ select
     order_date,
     status
 
-from raw.jaffle_shop.orders
+from dg-gcp-cert-435309.jaffle_shop.orders
